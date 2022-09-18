@@ -1,5 +1,6 @@
 # Team Universal HTM 3.0
--Updesh Pr Singh
+## Members
+- Updesh Pr Singh (Team Leader)
 - Tanu Soni
 - Varnika Tyagi
 - Ayush Tyagi
